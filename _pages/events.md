@@ -13,6 +13,6 @@ If you have any suggestions for upcoming events or want to help with organizing,
 ## Past Events
 
 - 31st March 2022: [Official Club Relaunch](https://www.instagram.com/p/CbyNDLKOqki/?utm_source=ig_web_copy_link)
-    - We hosted Nick Greiner, the Australian Consulate in New York, and officially relaunched the ANZ Club.
+    - We hosted Nick Greiner, the Australian Consul-General in New York and the North-East United States, and officially relaunched the ANZ Club.
 - 15th March 2022: [GSC Taste of Australia](https://www.facebook.com/MITgsc/posts/2440325679442968)
     - We served hundreds of pies, sausage rolls and lamingtons to hungry graduate students!
