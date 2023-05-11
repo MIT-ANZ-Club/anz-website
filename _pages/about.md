@@ -12,9 +12,14 @@ The ANZ Club has been around at MIT since the early 2000s, but was recently rebo
 
 - Cormac O'Neill
     - Co-President
-- Steven La
-    - Co-President
+- Tobin South
+    - Co-President and Treasurer
 - William Shen
-    - Treasurer and Webmaster
+    - Webmaster
+
+### Alumni
+
+- Steven La
+    - Co-President, 2022
 
 To contact the executive team, please email [aunz-exec@mit.edu](mailto:aunz-exec@mit.edu)

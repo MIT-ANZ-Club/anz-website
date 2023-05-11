@@ -7,7 +7,7 @@ permalink: /events/
 Please sign up for our [mailing list](#mailing-list) to get notified about upcoming events.
 
 We welcome anyone interested in Australian and New Zealand culture to attend our events!
-We are looking to plan our next event for Spring 2023.
+We are looking to plan our next event for Fall 2023.
 
 If you have any suggestions for upcoming events or want to help with organizing, please send an email to [aunz-exec@mit.edu](mailto:aunz-exec.mit.edu)
 
