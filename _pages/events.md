@@ -9,15 +9,13 @@ We welcome anyone interested in Australian and New Zealand culture to attend our
 
 If you have any suggestions for upcoming events or want to help with organizing, please send an email to [aunz-exec@mit.edu](mailto:aunz-exec.mit.edu)
 
+## Past Events
+
 ### 8th November 2023: AFL Grand Final Replay
 
-The ANZ Club is hosting a replay of the AFL Grand Final (Aussie football) on Wednesday 8th November from 5-7pm in W20 Lobdell (W20-208 in the Student Center).
+The ANZ Club hosted a replay of the AFL Grand Final (Aussie football) on Wednesday 8th November from 5-7pm in W20 Lobdell (W20-208 in the Student Center).
 
-Enjoy pies and lamingtons while catching up with Aussies and Kiwis at MIT! The event is open to all at MIT, so feel free to bring your friends along. 
-
-Please RSVP here: [https://cglink.me/2cy/s479](https://cglink.me/2cy/s479)
-
-## Past Events
+We enjoyed pies and lamingtons while catching up with Aussies and Kiwis at MIT!
 
 ### 15th May 2023: Joint Event at the Muddy
 We hosted a joint event with the Graduate Association of Mechanical Engineers (courtesy of support from the GSC) at the Muddy. We had pies, sausage rolls and lamingtons!

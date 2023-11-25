@@ -67,6 +67,9 @@ JEKYLL_ENV=production jekyll build && \
   echo "Deployed to http://anz.mit.edu"
 ```
 
+You will need to authenticate with your Kerberos account and Duo. Instructions for setting up access to Athena can be found here: https://web.mit.edu/dialup/www/ssh.html
+
+
 We use the [scripts service](https://scripts.mit.edu/) run by SIPB to host the website.
 Basically, we build the static website locally and then upload it to the AFS locker for the 
 ANZ club within the scripts service.
@@ -80,4 +83,3 @@ ANZ club within the scripts service.
     - Run `rsync -r _site/ athena.dialup.mit.edu:/mit/anz/web_scripts/`
 4. Don't forget to commit your changes to Github!
 
-Instructions for setting up access to Athena can be found here: https://web.mit.edu/dialup/www/ssh.html

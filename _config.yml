@@ -22,6 +22,7 @@ title: "MIT ANZ Club"
 subtitle: "Australia & New Zealand Club"
 name: "MIT ANZ Club"
 email: aunz-exec@mit.edu
+github: https://github.com/MIT-ANZ-Club/anz-website
 
 site.locale: "en-US"
 site.description: >- # this means to ignore newlines until "baseurl:"
