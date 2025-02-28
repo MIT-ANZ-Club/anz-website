@@ -27,7 +27,7 @@ ___
 3. Build the website and serve it locally with live reloading using
    ```ruby
    cd anz-website
-   bundle exec jekyll serve --livereload
+   bundle exec jekyll serve --livereload -P 8888
    ```
    - Any changes you make should be reflected in the live site.
    - If you don't include `bundle exec` you may get dependency errors, especially on Ruby 2.7.

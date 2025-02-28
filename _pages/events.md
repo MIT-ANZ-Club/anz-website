@@ -9,13 +9,14 @@ We welcome anyone interested in Australian and New Zealand culture to attend our
 
 If you have any suggestions for upcoming events or want to help with organizing, please send an email to [aunz-exec@mit.edu](mailto:aunz-exec.mit.edu)
 
-### 25 February 2025: Spring Meeting
- 
-Join us for a club meeting and connect with fellow Aussies, Kiwis and anyone interested in ANZ culture at MIT! Enjoy a taste of home with pies, sausage rolls, spinach rolls, and lamingtons only while stocks last.
-
-Please email [aunz-exec@mit.edu](mailto:aunz-exec.mit.edu) for the event details.
 
 ## Past Events
+
+### 25 February 2025: Spring Meeting
+
+We had a great turnout at our Spring Meeting! Everyone enjoyed treats from Cuppacoffee, including meat pies, sausage rolls, spinach rolls, and lamingtons. It was great to catch up with both familiar and new faces. We also had Tim Tams!
+
+![Spring Meeting 2025](/assets/images/2025-feb-anz.jpg)
 
 ### 25 April 2024: ANZAC Day Ice Cream
 
