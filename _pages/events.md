@@ -12,6 +12,24 @@ If you have any suggestions for upcoming events or want to help with organizing,
 
 ## Past Events
 
+### 23 September 2025: Picnic + Games on Killian
+
+We played rugby, cricket and spike ball and met familiar faces and new ANZers on campus!
+
+<img src="/assets/images/2025-fall-killian.jpg" alt="Fall Picnic 2025" style="max-width: 50%;">
+<style>
+@media (max-width: 425px) {
+  img[alt="Fall Picnic 2025"] {
+    max-width: 70% !important;
+  }
+}
+</style>
+
+
+### 17 March 2025: Muddy Meetup
+
+We had a yarn and hanged out at the Muddy.
+
 ### 25 February 2025: Spring Meeting
 
 We had a great turnout at our Spring Meeting! Everyone enjoyed treats from Cuppacoffee, including meat pies, sausage rolls, spinach rolls, and lamingtons. It was great to catch up with both familiar and new faces. We also had Tim Tams!
