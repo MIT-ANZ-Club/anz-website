@@ -12,6 +12,15 @@ If you have any suggestions for upcoming events or want to help with organizing,
 
 ## Past Events
 
+### 18 August 2026: ANZ Night at the Thirsty Ear
+
+We hosted an ANZ night at the Thirsty Ear pub, with snacks from home including Tim Tams, Darrell Lea Licorice, and Whittaker's chocolate. It was a great chance to catch up with everyone who was around over the summer.
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1rem;">
+  <img src="/assets/images/2026-aug-thirsty-ear-1.jpg" alt="ANZ Night at the Thirsty Ear 2026" style="width: 100%; height: auto;">
+  <img src="/assets/images/2026-aug-thirsty-ear-2.jpg" alt="ANZ Night at the Thirsty Ear 2026 (2)" style="width: 100%; height: auto;">
+</div>
+
 ### 23 September 2025: Picnic + Games on Killian
 
 We played rugby, cricket and spike ball and met familiar faces and new ANZers on campus!
