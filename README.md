@@ -57,7 +57,7 @@ You can add new image there and reference them in your markdown files.
 The contact form is powered by [Formspree](https://formspree.io/).
 The mailing list form is in `_includes/mailing-list-form.html`.
 
-You should ask William Shen for help to update the contact form, as it is tied to his Formspree account.
+The form is tied to the Formspree account registered under `aunz-exec@mit.edu`.
 
 ## Deploying to the Live Website
 **TL;DR: in 1 command:**

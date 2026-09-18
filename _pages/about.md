@@ -10,15 +10,20 @@ The ANZ Club has been around at MIT since the early 2000s, but was recently rebo
 
 ## Executive Committee
 
-- William Shen
-    - Co-President
-- Harvey Merton
-    - Co-President and Treasurer
+- Caleb Adams
+    - President, 2026-
+- Vincent Abbott
+    - Treasurer, 2026-
 
 If you're interested in helping organize social events and build our community as a Social Chair or in another role, please reach out to us! To contact the executive team, email [aunz-exec@mit.edu](mailto:aunz-exec@mit.edu).
 
 ### Alumni
 
+- William Shen
+    - Co-President, 2025-2026
+    - Officer, 2023-2025
+- Harvey Merton
+    - Co-President and Treasurer, 2025-2026
 - Cormac O'Neill
     - Co-President, 2022-2025
 - Tobin South

@@ -12,6 +12,10 @@ If you have any suggestions for upcoming events or want to help with organizing,
 
 ## Past Events
 
+### 14 September 2026: Fall Catch-Up and AGM
+
+First catch up of the semester in the West Lounge, with snacks from NZ and Australia. We also held our AGM and voted in the new exec. Congrats to Caleb Adams (President) and Vincent Abbott (Treasurer)!
+
 ### 18 August 2026: ANZ Night at the Thirsty Ear
 
 We hosted an ANZ night at the Thirsty Ear pub, with snacks from home including Tim Tams, Darrell Lea Licorice, and Whittaker's chocolate. It was a great chance to catch up with everyone who was around over the summer.
