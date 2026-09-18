@@ -83,3 +83,12 @@ ANZ club within the scripts service.
     - Run `rsync -r _site/ athena.dialup.mit.edu:/mit/anz/web_scripts/`
 4. Don't forget to commit your changes to Github!
 
+**Gotchas on the Athena side** (one-time, already done — only matters if the locker is ever rebuilt):
+- `robots.txt` must be `chmod 777` on Athena. On scripts.mit.edu Apache fetches it
+  directly rather than through the locker owner, and mode 777 is the flag their modified
+  AFS client uses to allow that ([scripts FAQ](https://scripts.mit.edu/faq/48)). Every other
+  file is served through the user account and doesn't need this. `rsync -r` without `-p`
+  leaves existing file modes alone, so deploys won't reset it.
+- `googled23a17e58dcd8e03.html` in `web_scripts/` is the Google Search Console verification
+  file. It is not in this repo, so don't `rsync --delete`.
+
