@@ -62,7 +62,7 @@ The form is tied to the Formspree account registered under the club exec email.
 ## Deploying to the Live Website
 **TL;DR: in 1 command:**
 ```bash
-JEKYLL_ENV=production jekyll build && \
+JEKYLL_ENV=production bundle exec jekyll build && \
   rsync -r _site/ athena.dialup.mit.edu:/mit/anz/web_scripts/ && \
   echo "Deployed to http://anz.mit.edu"
 ```
@@ -75,7 +75,7 @@ Basically, we build the static website locally and then upload it to the AFS loc
 ANZ club within the scripts service.
 
 **Detailed Instructions**:
-1. Build the website using `JEKYLL_ENV=production jekyll build`
+1. Build the website using `JEKYLL_ENV=production bundle exec jekyll build`
     - The `JEKYLL_ENV=production` environment variable tells Jekyll to build the website with production mode 
       (includes Google Analytics in our case).
 2. Jekyll will build the website into the `_sites` directory
