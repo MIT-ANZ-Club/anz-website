@@ -24,6 +24,7 @@ If you're interested in helping organize social events and build our community a
     - Officer, 2023-2025
 - Harvey Merton
     - Co-President and Treasurer, 2025-2026
+    - Officer, 2024-2025
 - Cormac O'Neill
     - Co-President, 2022-2025
 - Tobin South
